@@ -17,11 +17,10 @@ gender-equality-statistical-report/
 │   ├── 02_hypothesis_testing.ipynb
 │   └── 03_report_figures.ipynb
 ├── reports/
-│   ├── gender_equality_report.pdf
+│   ├── The-Gender-Conversion-Gap-From-STEM-and-Digital-Participation-to-Labour-Market-Power.pdf
+│   ├── The-Gender-Conversion-Gap-presentation.pdf
 │   └── figures/
 │
-├── src/
-│   └── utils.py
 │
 └── references.md
 ```
