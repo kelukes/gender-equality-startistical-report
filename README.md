@@ -12,11 +12,10 @@ gender-equality-statistical-report/
 │   └── processed/
 │
 ├── notebooks/
-│   ├── 01_data_selection_and_audit.ipynb
-│   ├── 02_descriptive_analysis.ipynb
-│   ├── 03_hypothesis_testing.ipynb
-│   └── 04_report_figures_and_tables.ipynb
-│
+│   ├── 00_feasibility_and_data_contract.ipynb
+│   ├── 01_exploratory_data_analysis.ipynb
+│   ├── 02_hypothesis_testing.ipynb
+│   └── 03_report_figures.ipynb
 ├── reports/
 │   ├── gender_equality_report.pdf
 │   └── figures/
